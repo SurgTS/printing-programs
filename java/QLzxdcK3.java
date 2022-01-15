@@ -1,0 +1,8 @@
+public class QLzxdcK3 {
+    public static void main(String[] args) {
+        int x = 53;
+        while (x-- > 0) {
+            System.out.println("QLzxdcK3");
+        }
+    }
+}
